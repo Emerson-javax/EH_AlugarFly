@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EH_AlugarFly">
+    <output-path>$PROJECT_DIR$/../../jars_EH/artifacts/EH_AlugarFly</output-path>
+    <root id="archive" name="EH_AlugarFly.jar">
+      <element id="module-output" name="EH_AlugarFly" />
+    </root>
+  </artifact>
+</component>

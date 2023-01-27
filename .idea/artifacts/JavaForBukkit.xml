@@ -2,7 +2,7 @@
   <artifact type="jar" name="JavaForBukkit">
     <output-path>$PROJECT_DIR$/../../output-mine_jars</output-path>
     <root id="archive" name="JavaForBukkit.jar">
-      <element id="module-output" name="PrimeiroProjetoMine" />
+      <element id="module-output" name="EH_AlugarFly" />
     </root>
   </artifact>
 </component>
