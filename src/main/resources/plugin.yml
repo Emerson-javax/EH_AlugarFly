@@ -1,0 +1,6 @@
+name: 'JavaForBukkit'
+version: '1.0'
+main: 'com.emersonhfds.javaforbukkit.JavaForBukkit'
+
+commands:
+  fly:
